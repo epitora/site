@@ -1,0 +1,1 @@
+import{b as o,t as e}from"../chunks/disclose-version.C3aO0ZWh.js";import"../chunks/legacy.BTDIqz8M.js";import{h as a}from"../chunks/svelte-head.EnCoYr5l.js";var m=e('<meta http-equiv="refresh" content="0; url=.">');function s(p){a(r=>{var t=m();o(r,t)})}export{s as component};
