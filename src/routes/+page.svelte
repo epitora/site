@@ -7,7 +7,7 @@
 </svelte:head>
 
 <div class="fixed inset-0 overflow-hidden bg-white dark:bg-black">
-	<img class="absolute left-6 top-6 h-10 w-auto" src="full.png" alt="Epitora" />
+	<img class="absolute left-6 top-6 h-9 w-auto" src="logo.png" alt="Epitora" />
 	<div class="mx-auto mt-46 px-4 sm:mt-64 flex flex-col items-center max-w-3xl">
 		<h1 class="text-5xl sm:text-7xl font-semibold tracking-tight text-center text-balance text-black/90 dark:text-white/95">
 			Software tailor-made for your business
@@ -16,7 +16,7 @@
 			Your business is unique, your software stack should be too. We develop and integrate solutions specific to your needs.
 		</p>
 		<a
-			href="mailto:inquiry@epitora.com?subject=Website%20inquiry&body=Hi%20Epitora%20team,%0A%0AWe%20are%20a%20small%20business%20looking%20for"
+			href="mailto:inquiry@epitora.com?subject=Website%20Inquiry&body=Hi%20Epitora%20team,%0A%0AWe%20are%20a%20small%20business%20looking%20for"
 			class="mt-10 rounded-md bg-indigo-600 hover:bg-indigo-500 px-3.5 py-2.5 font-semibold text-white shadow-xs"
 		>
 			Get in touch
