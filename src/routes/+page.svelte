@@ -16,7 +16,7 @@
 			Your business is unique, your software stack should be too. We develop and integrate solutions specific to your needs.
 		</p>
 		<a
-			href="mailto:inquiry@epitora.com?subject=Website%20Inquiry&body=Hi%20Epitora%20team,%0A%0AWe%20are%20a%20small%20business%20looking%20for"
+			href="mailto:hi@epitora.com"
 			class="mt-10 rounded-md bg-indigo-600 hover:bg-indigo-500 px-3.5 py-2.5 font-semibold text-white shadow-xs"
 		>
 			Get in touch
